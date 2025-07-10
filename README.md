@@ -216,3 +216,7 @@
   src="https://github-readme-streak-stats.herokuapp.com/?user=wasimahmad&"
   alt="wasimahmad" />
 </p>
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
